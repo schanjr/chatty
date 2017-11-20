@@ -1,0 +1,2 @@
+tweepy==3.5.0
+ChatterBot==0.7.6
